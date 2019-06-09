@@ -1,0 +1,7 @@
+builders:
+  powerFlutterGenerator:
+    import: "package:powerflutter_code_generation/codegeneration/builder.dart"
+    builder_factories: ["powerflutterGenerator"]
+    build_extensions: {".dart": [".powerflutter.g.part"]}
+    auto_apply: dependents
+    applies_builders: ["source_gen|combining_builder"]
