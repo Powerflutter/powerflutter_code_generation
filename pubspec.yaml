@@ -1,18 +1,16 @@
 name: powerflutter_code_generation
-description: A new Flutter project.
+author: Tobias Heidingsfeld <Tobias@powerflutter.com>
+homepage: https://github.com/Powerflutter/powerflutter_code_generation
+description: Code Generation for Powerflutter for Models, Assets and more use as dev_dependency and add annotations to your code
 version: 0.1.0
-author:
-homepage:
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   source_gen: ^0.9.0
-  powerflutter:
-    path: ..\powerflutter
+  powerflutter: ^0.1.0
 
-    
   flutter:
     sdk: flutter
 

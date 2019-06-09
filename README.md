@@ -14,9 +14,9 @@ Powerflutter Code Generation Library
 
 `@ModelName("test")` Used on a field of a `@powermodel` class sets the Name used in serialization etc. for this field
 
-##Example
+## Example
 
-In the Powerflutter Examples we use the following simple :
+In the Powerflutter Examples we use the following simple model class:
 
 ```
 import 'package:powerflutter/powerflutter.dart';

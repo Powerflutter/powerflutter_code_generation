@@ -294,9 +294,9 @@ packages:
   powerflutter:
     dependency: "direct main"
     description:
-      path: "..\\powerflutter"
-      relative: true
-    source: path
+      name: powerflutter
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.1.0+1"
   pub_semver:
     dependency: transitive
