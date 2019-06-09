@@ -2,7 +2,7 @@ name: powerflutter_code_generation
 author: Tobias Heidingsfeld <Tobias@powerflutter.com>
 homepage: https://github.com/Powerflutter/powerflutter_code_generation
 description: Code Generation for Powerflutter for Models, Assets and more use as dev_dependency and add annotations to your code
-version: 0.1.0
+version: 0.1.1
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
